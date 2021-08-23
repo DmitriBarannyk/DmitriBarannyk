@@ -10,13 +10,28 @@ I like
 
 and  coding on javascript :computer:
 
+### My basic skills:
+
+* I have over 2 years of experience in website development
+
+* Website layout from scratch
+
+* Optimizing performance, loading speed
+
+* Web design
+
+* Addobe Photohop.
+
+* Basic knowledge JavaScript
 
 
 ### Skills and Tools
-[<img align="left" width="60px" alt="HTML-5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][twitter]
-[<img align="left" width="60px" alt="CSS-3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][twitter]
-[<img align="left" width="60px" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][twitter]
-[<img align="left" width="60px" alt="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][twitter]
+[<img align="left" width="60px" alt="HTML-5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" width="60px" alt="CSS-3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" width="60px" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" width="60px" alt="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
+[<img align="left" width="60px" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>][git]
+[<img align="left" width="60px" alt="gulp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"/>][gulp]
 
 <br />
 <br />
@@ -32,3 +47,9 @@ and  coding on javascript :computer:
 
 [twitter]: https://twitter.com/orgeniss
 [codewars]: https://www.codewars.com/users/mister_green
+[html]: svg/html.png
+[css]: svg/css.png
+[javascript]: svg/javascript.png
+[sass]: svg/sass.png
+[git]: svg/git.png
+[gulp]: svg/gulp.png
