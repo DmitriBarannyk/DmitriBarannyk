@@ -12,17 +12,17 @@ and  coding on javascript :computer:
 
 ### My basic skills:
 
-* I have over 2 years of experience in website development
+* I have over 2 years of experience in website development.
 
-* Website layout from scratch
+* Website layout from scratch.
 
-* Optimizing performance, loading speed
+* Optimizing performance, loading speed.
 
-* Web design
+* Web design.
 
 * Addobe Photohop.
 
-* Basic knowledge JavaScript
+* Basic knowledge JavaScript.
 
 
 ### Skills and Tools
